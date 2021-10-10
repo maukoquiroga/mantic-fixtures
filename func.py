@@ -1,2 +1,2 @@
-def function(a, *, b, c, d):
+def function(a, b, c, d, e, f):
     ...
