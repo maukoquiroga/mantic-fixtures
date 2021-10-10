@@ -1,2 +1,6 @@
 def function(a, *, b, c, d):
     ...
+
+
+def another_function(a, *, b, c, d):
+    ...
